@@ -1,9 +1,14 @@
+<br/>
 <div align="center">
 
 <img width="536" height="414" alt="image" src="https://files.catbox.moe/1huevh.png" /> <p align="center"> hi! this is a wip, bare with me<p align="center"> [01](https://mequotling.straw.page) . [02](https://descentic.atabook.org) . [03](https://pronouns.cc/@malwired)
+
+<br/>
 
    <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=tvpunkea2cxz3zcmchoprjt8t&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tvpunkea2cxz3zcmchoprjt8t&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=bdbdbd&bar_color_cover=false">
   </a>
 </p>
+
+<br/>
